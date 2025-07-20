@@ -1,7 +1,3 @@
-// ====================================================================
-// ÇEVİRİ İŞLEMLERİ VE GENEL AYARLAR (Bu bölüm değişmedi)
-// ====================================================================
-
 let currentLanguage = 'TR';
 
 // YENİ: Çeviri anahtarlarını veritabanındaki record_id'lere eşleyen sözlük.
